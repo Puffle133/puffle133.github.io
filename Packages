@@ -1,0 +1,13 @@
+Packages: com.puffle133.simple
+Version: 0.0.1-33
+Architecture: iphoneos-arm
+Maintainer: Puffle133 <schoolemailformyself@gmail.com>
+Filename: /simpletweakfinal.deb
+Size: 4,798
+MD5sum: 9d898338c4da0a36f1dffea2af2dd0b1
+SHA1: 9f8a39fd67353fe80bffa472c51bdc63e0f42d7d
+SHA256: 3b9b9252a16bc8b68764550470289089dfe1d48479be7b7f03be8d69414200c7
+Section: Tweaks
+Description: Tweaks I've Finalized
+Author: Puffle133 <schoolemailformyself@gmail.com>
+Name: SimpleTweak Finalized
